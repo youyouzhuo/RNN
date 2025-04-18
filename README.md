@@ -12,18 +12,18 @@
    C. 作为注意力机制的key  
    D. 作为输出层的偏置项  
 
-3. **nation_emb层的主要作用是？**  
+3. ** `nation_emb` 层的主要作用是？**  
    A. 将字符索引映射为稠密向量  
    B. 将国家标签转换为隐藏状态初始化向量 ✅  
    C. 生成姓氏的长度控制参数  
    D. 计算交叉熵损失的辅助参数  
 
-4. **sample_from_model函数新增的关键参数是？**  
-   A. temperature  
-   B. nationalities ✅  
-   C. device  
-   D. max_length
-`
+4. ** `sample_from_model` 函数新增的关键参数是？**  
+   A.  `temperature`   
+   B.  `nationalities`  ✅  
+   C.  `device`   
+   D.  `max_length` 
+
 ##截图
 
 ![屏幕截图(65)](https://github.com/user-attachments/assets/62d63b08-b267-4a2a-97a3-e20ab199c08a)
