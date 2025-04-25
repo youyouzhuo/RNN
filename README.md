@@ -24,7 +24,7 @@
    C.  `device`   
    D.  `max_length` 
 
-##截图
+# 截图
 
 ![屏幕截图(65)](https://github.com/user-attachments/assets/62d63b08-b267-4a2a-97a3-e20ab199c08a)
 ![屏幕截图(71)](https://github.com/user-attachments/assets/5e57d779-ee8c-4cc4-837e-729877865010)
