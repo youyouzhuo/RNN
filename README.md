@@ -27,5 +27,6 @@
 ##截图
 
 ![屏幕截图(65)](https://github.com/user-attachments/assets/62d63b08-b267-4a2a-97a3-e20ab199c08a)
+![屏幕截图(71)](https://github.com/user-attachments/assets/5e57d779-ee8c-4cc4-837e-729877865010)
 ![屏幕截图(67)](https://github.com/user-attachments/assets/7328ca3e-672e-4497-8ddf-9c328a521407)
 ![屏幕截图(66)](https://github.com/user-attachments/assets/da092fcf-cf9f-4008-9fe9-4d4fc09829b6)
